@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Maxine Waters, Demagogue
+tags: politics
 ---
 
 On Saturday, at a rally in California, Maxine Waters [proceeded to encourage harassment](https://www.politico.com/story/2018/06/25/liberals-attack-bondi-sanders-trump-667934) against people of differing political views.

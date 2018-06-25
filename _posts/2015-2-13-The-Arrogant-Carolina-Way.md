@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The (Arrogant) Carolina Way
+tags: sports unc
 ---
 
 So the North Carolina football team decided to celebrate after their victory over Duke in Durham last November 24. They did so by vandalizing the visitor’s locker room. This wasn’t just a few players gone wild. This was a lot of them, and under the supervision of at least some of the team’s staff.
