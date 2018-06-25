@@ -3,7 +3,7 @@ layout: post
 title: Hypothetical Hypocrisy
 ---
 
-I happened across a news story today that Apple had cut ties with a lobbyist from Alabama. The reason? He is not on the []“correct” side of the gay marriage issue](http://www.huffingtonpost.com/2015/02/17/_n_6699054.html).
+I happened across a news story today that Apple had cut ties with a lobbyist from Alabama. The reason? He is not on the [“correct” side of the gay marriage issue](http://www.huffingtonpost.com/2015/02/17/_n_6699054.html).
 
 > In 2009, Love gained attention for sponsoring a resolution that praised Miss USA pageant contestant Carrie Prejean for speaking out against same-sex marriage.
 
