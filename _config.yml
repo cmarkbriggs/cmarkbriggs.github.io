@@ -2,9 +2,6 @@
 # This file contains configuration flags to customize your site
 #
 
-theme: jekyll-theme-tactile
-show_downloads: false
-
 # Name of your site (displayed in the header)
 name: Detention Block AA23
 
