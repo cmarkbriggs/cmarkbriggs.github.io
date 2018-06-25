@@ -2,6 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 
+theme: jekyll-theme-tactile
+show_downloads: false
+
 # Name of your site (displayed in the header)
 name: Detention Block AA23
 
@@ -57,10 +60,6 @@ permalink: /:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
-
-theme: jekyll-theme-tactile
-show_downloads: false
-
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
