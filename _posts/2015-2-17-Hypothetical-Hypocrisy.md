@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hypothetical Hypocrisy
+tags: politics
 ---
 
 I happened across a news story today that Apple had cut ties with a lobbyist from Alabama. The reason? He is not on the [“correct” side of the gay marriage issue](http://www.huffingtonpost.com/2015/02/17/_n_6699054.html).

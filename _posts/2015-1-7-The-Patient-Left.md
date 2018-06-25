@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Patient Left
+tags: politics leftism
 ---
 
 I read the book ["Witness" by Whittaker Chambers](http://whittakerchambers.org/books/witness/) a few years ago. The book was about the rise of Communism in this country. A lot of it had to do with the case of Soviet spy Alger Hiss. What I took away from it was how dangerously patient Communists are, and their long-term plan for taking over this country.

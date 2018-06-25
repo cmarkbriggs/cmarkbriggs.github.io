@@ -1,6 +1,7 @@
 ---
 layout: post
 title: When Bad Policies Collide
+tags: politics
 ---
 
 Obamacare is a horrible law. Obama’s amnesty, while not a law nor lawful, is terrible. Put the two together and what do you get? [Absurdity](http://www.washingtontimes.com/news/2014/nov/25/obama-amnesty-obamacare-clash-businesses-have-3000/).

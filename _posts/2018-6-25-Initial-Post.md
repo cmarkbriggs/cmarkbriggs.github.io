@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello, Again
+tags: miscellany
 ---
 
 It has been way too long since I have blogged on a regular basis. I happened to stumble across an article at lunch today about blogging with Jekyll. So, I thought this would be a great time to get back into blogging. In addition, I'm refreshing myself with Git again, as it's been quite a while since I've used it on a (semi) regular basis.

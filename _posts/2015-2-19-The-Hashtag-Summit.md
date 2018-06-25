@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Hashtag Summit
+tags: politics
 ---
 
 

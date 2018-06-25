@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Your Views Are Wrong, Mine Are Right
+tags: politics
 ---
 
 That’s the stance liberals and the LGB community have taken in recent years. If you do not believe that homosexuality is okay, then you are a bigot. End of story.
