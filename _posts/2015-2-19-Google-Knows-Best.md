@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello, Again
+title: Google (Thinks It) Knows Best
 ---
 I manage the digital certificates for our company. I've used [DigiCert](https://www.digicert.com/) for years and have been very happy with them. We have wildcard certificates with them, and the ease with which one can get duplicate certificates to install on different servers is really nice.
 
