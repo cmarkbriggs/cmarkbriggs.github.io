@@ -18,8 +18,10 @@ This proceeded to freak out a bunch of feminists on Twitter:
 
 > — Anna Beth West (@annabethwest) [June 9, 2014](https://twitter.com/annabethwest/statuses/475833577611866112)
 
+<p align="center">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">No, Miss Nevada. The solution to rape is not that all women should have black belts. Thanks though. <a href="https://twitter.com/hashtag/nottheproblem?src=hash&amp;ref_src=twsrc%5Etfw">#nottheproblem</a> <a href="https://twitter.com/hashtag/missedthepoint?src=hash&amp;ref_src=twsrc%5Etfw">#missedthepoint</a> <a href="https://twitter.com/hashtag/MissUSA?src=hash&amp;ref_src=twsrc%5Etfw">#MissUSA</a></p>&mdash; Ashley Ramsey Hannum (@ashleyrramsey) <a href="https://twitter.com/ashleyrramsey/status/475829207516188674?ref_src=twsrc%5Etfw">June 9, 2014</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
 Well, yeah, we could teach men to not rape at all. Then we could all get together and sing Kumbayah around the campfire while holding hands. This is something that liberals just can't, or won't, grasp:  Utopia does not exist. No one is promoting rape culture, but evil exists in this world. It always will.
 
