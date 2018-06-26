@@ -118,7 +118,7 @@ img {
 .date {
   font-style: italic;
   font-size: 14px;
-  margin-bottom: 14px;
+  margin-bottom: 13px;
   color: $gray;
 }
 
@@ -169,7 +169,7 @@ img {
   float: left;
   width: 80px;
   height: 80px;
-  margin-right: 15px;
+  margin-right: 20px;
 
   @include mobile {
     float: none;
