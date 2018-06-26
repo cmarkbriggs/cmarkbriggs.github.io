@@ -8,19 +8,19 @@ layout: default
   <p class="author">
     <!-- <span class="date">{{ post.date }}</span> -->
     <div class="date">
-      Written on {{ page.date | date: "%B %e, %Y" }}
+      Written on {{ post.date | date: "%B %e, %Y" }}
+    </div>
+    <div>
+      <span>
+        {% for tag in page.tags %}
+          {% capture tag_name %}{{ tag }}{% endcapture %}
+          <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+        {% endfor %}
+      </span>
     </div>
   </p>
   <div class="content">
     {{ post.content }}
-  </div>
-  <div>
-    <span>
-      {% for tag in page.tags %}
-        {% capture tag_name %}{{ tag }}{% endcapture %}
-        <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-      {% endfor %}
-    </span>
   </div>
 {% endfor %}
 
