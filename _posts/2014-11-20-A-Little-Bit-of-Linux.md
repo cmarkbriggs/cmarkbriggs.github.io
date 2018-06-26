@@ -10,6 +10,6 @@ I have been setting up GitHub Enterprise in our office. I decided to install Git
 
 Getting the backup-tools installed and running was relatively painless. Making a successful backup, however, was not quite as easy. Now, I’m sure this wouldn’t have been much of an issue with someone more knowledgeable with Linux, but for me, it was a learning experience.
 
-I kept getting `env: bash: No such file or directory` when it got to the point where it was backing up the repositories. I started looking through the backup scripts, but I couldn’t determine which script was failing until I added `set -x` to the main script. I then found the particular script that was failing.
+I kept getting **`env: bash: No such file or directory`** when it got to the point where it was backing up the repositories. I started looking through the backup scripts, but I couldn’t determine which script was failing until I added **`set -x`** to the main script. I then found the particular script that was failing.
 
-After then discovering that DSM comes with the Ash shell and not Bash, I then knew to change `#!/usr/bin/env bash` to `#!/usr/bin/env ash`. Voila! Our GitHub repositories are now being backed up to the Synology every night. Now, time to figure out what to use for offsite backup of the Synology. Fun times!
+After then discovering that DSM comes with the Ash shell and not Bash, I then knew to change **`#!/usr/bin/env bash`** to **`#!/usr/bin/env ash`**. Voila! Our GitHub repositories are now being backed up to the Synology every night. Now, time to figure out what to use for offsite backup of the Synology. Fun times!
