@@ -4,7 +4,9 @@ title: Hail to the Redskins
 tags: redskins politics
 ---
 
-<img src="images/redskins.png" alt="redskins.png" class="inline"/>
+<p align="center"> 
+  <img src="/images/redskins.png">
+</p>
 
 Yesterday's [ruling by the patent office to revoke the trademark registration](http://www.washingtonpost.com/local/us-patent-office-cancels-redskins-trademark-registration-says-name-is-disparaging/2014/06/18/e7737bb8-f6ee-11e3-8aa9-dad2ec039789_story.html?hpid=z1) of the name "Redskins" from the Washington Redskins invoked a really strong reaction from me yesterday. I really thought this was the first step of the government forcing Daniel Snyder to change the name of his team. After listening to the [Mark Levin Show](http://www.marklevinshow.com/), however, I feel much better about the situation.
 
