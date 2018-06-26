@@ -53,7 +53,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+# permalink: /:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
@@ -80,6 +80,9 @@ plugins:
   - jemoji
   - jekyll-sitemap
   - jekyll-feed
+
+paginate: 5
+paginate_path: "/blog/page:num/"
 
 # Exclude these files from your production _site
 exclude:
