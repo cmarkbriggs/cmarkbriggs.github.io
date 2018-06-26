@@ -81,7 +81,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-paginate: 5
+paginate: 6
 paginate_path: "/blog/page:num/"
 
 # Exclude these files from your production _site
