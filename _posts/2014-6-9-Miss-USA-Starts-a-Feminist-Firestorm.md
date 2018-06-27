@@ -11,11 +11,11 @@ So, Miss Nevada was asked a question about sexual assaults on college campuses d
 This proceeded to freak out a bunch of feminists on Twitter:
 
 > Miss Nevada👎 Sick of hearing "women need to learn selfdefense from sexual violence" We need a culture we don't have to defend ourselves from
-
+>
 > — Colleen Gibbons (@GibbonsColleen) [June 9, 2014](https://twitter.com/GibbonsColleen/statuses/475829474811187200)
-
+>
 > Women shouldn't need to learn to protect themselves against rape #missnevada educate and respect yourself as a woman #rapeculture
-
+>
 > — Anna Beth West (@annabethwest) [June 9, 2014](https://twitter.com/annabethwest/statuses/475833577611866112)
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">No, Miss Nevada. The solution to rape is not that all women should have black belts. Thanks though. <a href="https://twitter.com/hashtag/nottheproblem?src=hash&amp;ref_src=twsrc%5Etfw">#nottheproblem</a> <a href="https://twitter.com/hashtag/missedthepoint?src=hash&amp;ref_src=twsrc%5Etfw">#missedthepoint</a> <a href="https://twitter.com/hashtag/MissUSA?src=hash&amp;ref_src=twsrc%5Etfw">#MissUSA</a></p>&mdash; Ashley Ramsey Hannum (@ashleyrramsey) <a href="https://twitter.com/ashleyrramsey/status/475829207516188674?ref_src=twsrc%5Etfw">June 9, 2014</a></blockquote>
