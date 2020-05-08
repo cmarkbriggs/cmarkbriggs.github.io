@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <p align="center"> 
-  <img src="/images/Me_Twitter2.png" align="center" height="300" width="300">
+  <img src="/images/Me_Twitter2.png" align="center" height="200" width="184">
 </p>
 
 I am a husband and father of two great daughters and two great step-daughters. I work for a computer software company in the Charlotte area as an Infrastructure Engineer. Born, raised, and having lived in North Carolina all my life, I graduated from N.C. State University what seems like ages ago.
